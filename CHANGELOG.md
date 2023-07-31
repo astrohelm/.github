@@ -11,4 +11,4 @@
 - Organization created
 
 [unreleased]: https://github.com/astrohelm/.github/compare/release...HEAD
-[1.0.0]: https://github.com/astrohelm/.github/releases/tag/release
+[0.0.1]: https://github.com/astrohelm/.github/releases/tag/release
