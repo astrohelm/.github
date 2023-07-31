@@ -6,6 +6,10 @@
 
 <!-- - Stable version -->
 
+<!-- ## [0.1.0][] - 2023-08-1 -->
+
+- Navigation update
+
 ## [0.0.1][] - 2023-07-31
 
 - Organization created
