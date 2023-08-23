@@ -4,7 +4,7 @@
 
 | Repository                            | Subsystem            | Maintainer                     | Comments                     |
 | ------------------------------------- | -------------------- | ------------------------------ | ---------------------------- |
-| [ESlint-config-astrohelm][eslint:git] | **ESLint config** 📜 | [Alexander Ivanov][sashapop10] | ESLint ruleset configuration |
+| [ESLint-config-astrohelm][eslint:git] | **ESLint config** 📜 | [Alexander Ivanov][sashapop10] | ESLint ruleset configuration |
 | [Workspace][workspace:git]            | **Template** 📝      | [Alexander Ivanov][sashapop10] | Nodejs workspace     |
 | [Astopack][astopack:git]            | **Utilities kit** 🛠️       | [Alexander Ivanov][sashapop10] | Astrohelm Universal Scripts Kit      |
 
