@@ -8,7 +8,7 @@
 | [Astroctx][astroctx:git]            | **VM&nbsp;Wrapper**&nbsp;💉       | [Alexander Ivanov][sashapop10] |How often do you see libraries which mutates global variables ? Or how often do you check libraries actions 🥸 ? Astroctx provides script isolation in custom contexts to solve this issues. And yes, this library written to prevent unexpected behavior.   |
 | [Asrtopack][astropack:git]            | **Utilities&nbsp;kit**&nbsp;🛠️       | [Alexander Ivanov][sashapop10] | Astropack 🛠️ - repository for all general purpose scripts. Time handler, Async, Wrappers, Structures, Strategies and many more repeated from project to project utilities. Main purpose - Tools for Astrohelm project.     |
 | [ESLint-config-astrohelm][eslint:git] | **ESLint&nbsp;config**&nbsp;📜 | [Alexander Ivanov][sashapop10] | ESLint ruleset configuration |
-| [Workspace][workspace:git]            | **Template**&nbsp;📝      | [Alexander Ivanov][sashapop10] | Nodejs workspace     |
+| [Node-Workspace][workspace:git]            | **Template**&nbsp;📝      | [Alexander Ivanov][sashapop10] | Nodejs workspace     |
 
 
 [eslint:git]: https://github.com/astrohelm/eslint-config-astrohelm
