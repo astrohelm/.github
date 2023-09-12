@@ -9,6 +9,7 @@
 | [Asrtopack][astropack:git]            | **Utilities&nbsp;kit**&nbsp;🛠️       | [Alexander Ivanov][sashapop10] | Astropack 🛠️ - repository for all general purpose scripts. Time handler, Async, Wrappers, Structures, Strategies and many more repeated from project to project utilities. Main purpose - Tools for Astrohelm project.     |
 | [ESLint&nbsp;config&nbsp;astrohelm][eslint:git] | **ESLint&nbsp;config**&nbsp;📜 | [Alexander Ivanov][sashapop10] | ESLint ruleset configuration |
 | [Node&nbsp;Workspace][node-workspace:git]            | **Template**&nbsp;📝      | [Alexander Ivanov][sashapop10] | Nodejs workspace     |
+| [Bun&nbsp;Workspace][bun-workspace:git]            | **Template**&nbsp;📝      | [Alexander Ivanov][sashapop10] | Bunjs workspace     |
 | [Svelte&nbsp;Workspace][svelte-workspace:git]            | **Template**&nbsp;📝      | [Alexander Ivanov][sashapop10] | Sveltekit workspace     |
 
 
