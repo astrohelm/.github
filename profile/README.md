@@ -5,7 +5,7 @@
 | [Asrtocore][root:git]                           | **Framework&nbsp;**&nbsp;🐎    | -                              | -                                                                                                                                                                                                                                                          |
 | [Asrtorpc][root:git]                            | **RPC&nbsp;Protocol**&nbsp;🕸️  | -                              | -                                                                                                                                                                                                                                                          |
 | [Asrtosql][root:git]                            | **Sql&nbsp;Builder**&nbsp;📋   | -                              | -                                                                                                                                                                                                                                                          |
-| [Astroplan][astroplan:git]                      | **Meta&nbsp;Schema**&nbsp;🕵️   | [Alexander Ivanov][sashapop10] | Astroplan - power of schemas \| Use schemas for runtime type validations, .d.ts generation and more.                                                                                                                                                       |
+| [MetaForge][metaforge:git]                      | **Validation&nbsp;by&nbsp;metadata**&nbsp;🕵️   | [Alexander Ivanov][sashapop10] | Library for runtime data validation by metadata.                                                                                                                                                       |
 | [Asrtocli][root:git]                            | **Nodejs&nbsp;CLI**&nbsp;🧑‍💻    | [Maksim Zhdankin][maksim]      | -                                                                                                                                                                                                                                                          |
 | [Astrolog][astrolog:git]                        | **Smart&nbsp;Logger**&nbsp;🗃️  | [Maksim Zhdankin][maksim]      | -                                                                                                                                                                                                                                                          |
 | [Astrowatch][astrowatch:git]                    | **FS&nbsp;Watcher**&nbsp;👁️    | [Alexander Ivanov][sashapop10] | Astrohelm file system watcher 👁️ Watch specific files, directories, deeply nested directories / Rebuild recursive when new directories found or old directories remove / Deduplicate events with debounce.                                                 |
@@ -22,7 +22,7 @@
 [node-workspace:git]: https://github.com/astrohelm/node-workspace
 [bun-workspace:git]: https://github.com/astrohelm/bun-workspace
 [astrowatch:git]: https://github.com/astrohelm/astrowatch
-[astroplan:git]: https://github.com/astrohelm/astroplan
+[metaforge:git]: https://github.com/astrohelm/metaforge
 [astropack:git]: https://github.com/astrohelm/astropack
 [astrolog:git]: https://github.com/astrohelm/astrolog
 [astroctx:git]: https://github.com/astrohelm/astroctx
