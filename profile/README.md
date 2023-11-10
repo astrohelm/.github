@@ -6,7 +6,7 @@
 | [Asrtorpc][root:git]                            | **RPC&nbsp;Protocol**&nbsp;🕸️                | -                              | -                                                                                                       |
 | [Asrtosql][root:git]                            | **Sql&nbsp;Builder**&nbsp;📋                 | -                              | -                                                                                                       |
 | [MetaForge][metaforge:git]                      | **Validation&nbsp;by&nbsp;metadata**&nbsp;🕵️ | [Alexander Ivanov][sashapop10] | Library for runtime data validation by metadata.                                                        |
-| [Asrtocli][root:git]                            | **Nodejs&nbsp;CLI**&nbsp;🧑‍💻                  | [Maksim Zhdankin][maksim]      | -                                                                                                       |
+| [Asrtocli][cli:git]                            | **Nodejs&nbsp;CLI**&nbsp;🧑‍💻                  | -      | -                                                                                                       |
 | [Astrolog][astrolog:git]                        | **Smart&nbsp;Logger**&nbsp;🗃️                | [Maksim Zhdankin][maksim]      | Plugable logger, that allow you to stream logs from all process to any external reciever                |
 | [FileSnitch][filesnitch:git]                    | **FS&nbsp;Watcher**&nbsp;👁️                  | [Alexander Ivanov][sashapop10] | File system changes monitoring                                                                          |
 | [Isolation][isolation:git]                      | **Context&nbsp;Isolation**&nbsp;💉           | [Alexander Ivanov][sashapop10] | Running scripts in custom contexts to prevent unexpected behavior, race conditions and global pollution |
@@ -26,5 +26,6 @@
 [astropack:git]: https://github.com/astrohelm/astropack
 [astrolog:git]: https://github.com/astrohelm/astrolog
 [isolation:git]: https://github.com/astrohelm/isolation
+[cli:git]: https://github.com/astrohelm/astrocli
 [sashapop10]: https://github.com/sashapop10
 [maksim]: https://github.com/expertrix
