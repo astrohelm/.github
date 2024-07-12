@@ -4,9 +4,8 @@
 | ----------------------------------------------- | -------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | [MetaForge][metaforge:git]                      | **Validation&nbsp;by&nbsp;metadata**&nbsp;🕵️ | Library for runtime data validation & dependency generation by metadata.                  |
 | [Isolation][isolation:git]                      | **Context&nbsp;Isolation**&nbsp;💉           | Javascript isolation to prevent unexpected behavior, race conditions and global pollution |
-| [Nalogy][nalogy:git]                            | **Smart&nbsp;Logger**&nbsp;🗃️                | Plugable logger, that allow you to stream logs to any external receiver                   |
+<!-- | [Nalogy][nalogy:git]                            | **Smart&nbsp;Logger**&nbsp;🗃️                | Plugable logger, that allow you to stream logs to any external receiver                  | -->
 | [FileSnitch][filesnitch:git]                    | **FS&nbsp;Watcher**&nbsp;👁️                  | File system changes monitoring                                                            |
-| [Asrtopack][astropack:git]                      | **Utilities&nbsp;kit**&nbsp;🛠️               | Astropack - repository for all general purpose scripts.                                   |
 | [ESLint&nbsp;config&nbsp;astrohelm][eslint:git] | **ESLint&nbsp;config**&nbsp;📜               | ESLint ruleset configuration                                                              |
 | [Node&nbsp;Workspace][node-workspace:git]       | **Template**&nbsp;📝                         | Nodejs workspace template repository                                                      |
 | [Bun&nbsp;Workspace][bun-workspace:git]         | **Template**&nbsp;📝                         | Bunjs workspace template repository                                                       |
@@ -19,7 +18,6 @@
 [bun-workspace:git]: https://github.com/astrohelm/bun-workspace
 [filesnitch:git]: https://github.com/astrohelm/filesnitch
 [metaforge:git]: https://github.com/astrohelm/metaforge
-[astropack:git]: https://github.com/astrohelm/astropack
 [nalogy:git]: https://github.com/astrohelm/nalogy
 [isolation:git]: https://github.com/astrohelm/isolation
 [cli:git]: https://github.com/astrohelm/astrocli
