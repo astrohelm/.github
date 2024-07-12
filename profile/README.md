@@ -4,12 +4,12 @@
 | ----------------------------------------------- | -------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | [MetaForge][metaforge:git]                      | **Validation&nbsp;by&nbsp;metadata**&nbsp;🕵️ | Library for runtime data validation & dependency generation by metadata.                  |
 | [Isolation][isolation:git]                      | **Context&nbsp;Isolation**&nbsp;💉           | Javascript isolation to prevent unexpected behavior, race conditions and global pollution |
-<!-- | [Nalogy][nalogy:git]                            | **Smart&nbsp;Logger**&nbsp;🗃️                | Plugable logger, that allow you to stream logs to any external receiver                  | -->
 | [FileSnitch][filesnitch:git]                    | **FS&nbsp;Watcher**&nbsp;👁️                  | File system changes monitoring                                                            |
 | [ESLint&nbsp;config&nbsp;astrohelm][eslint:git] | **ESLint&nbsp;config**&nbsp;📜               | ESLint ruleset configuration                                                              |
 | [Node&nbsp;Workspace][node-workspace:git]       | **Template**&nbsp;📝                         | Nodejs workspace template repository                                                      |
 | [Bun&nbsp;Workspace][bun-workspace:git]         | **Template**&nbsp;📝                         | Bunjs workspace template repository                                                       |
 | [Svelte&nbsp;Workspace][svelte-workspace:git]   | **Template**&nbsp;📝                         | Sveltekit workspace template repository                                                   |
+<!-- | [Nalogy][nalogy:git]                            | **Smart&nbsp;Logger**&nbsp;🗃️                | Plugable logger, that allow you to stream logs to any external receiver                  | -->
 
 [root:git]: https://github.com/astrohelm
 [svelte-workspace:git]: https://github.com/astrohelm/svelte-workspace
